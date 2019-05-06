@@ -1,0 +1,6 @@
+const fs = require('fs');
+//
+fs.unlink('data2.txt',(error)=>{
+    if(error) throw error;
+    console.log('Archivo Eliminado');
+});

@@ -1,3 +1,0 @@
-¡Demostracion de data.txt!
-¡Demostracion de appendFile en data.txt!
-¡Demostracion de appendFile en data.txt!

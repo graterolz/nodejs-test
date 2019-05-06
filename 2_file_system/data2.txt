@@ -1,0 +1,2 @@
+¡Demostracion de lectura de data1.txt!
+¡Demostracion de appendFile en data1.txt!
