@@ -1,0 +1,15 @@
+node inspect app.js
+--
+n = Siguiente linea
+repl = Ver valores de variables
+nombre_variable = para ver valor
+list(10) = ver desde linea 1 a linea 10
+c = Ubicar en donde esta la palabra "debugger"
+--
+nodemon app.js
+nodemon inspect app.js
+--
+Chrome Dev Tools
+- Ir a chrome://inspect/
+node --inspect-brk app.js
+nodemon --inspect-brk app.js
